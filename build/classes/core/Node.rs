@@ -1,1 +1,0 @@
-hungrysnake.core.Node
